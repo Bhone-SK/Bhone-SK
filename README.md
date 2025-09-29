@@ -23,6 +23,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhone-sk&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bhone-sk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhone-sk" alt="bhone-sk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
