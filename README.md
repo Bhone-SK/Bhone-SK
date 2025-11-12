@@ -7,6 +7,8 @@
 
 - 👨‍💻 Find out more about me at [https://bhone-sk.github.io/My-Web/](https://bhone-sk.github.io/My-Web/)
 
+- 🖥️ You can also look at my <a href="https://devpost.com/Bhone-SK?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank">DevPost</a>
+
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **bhonesinkyal10@gmail.com**
